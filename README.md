@@ -1,12 +1,12 @@
 # 🌭 HOTDOG IMAGE CLASSIFIER 🌭
 
-[캐글 Hotdog-Not-hotdog]
-https://www.kaggle.com/datasets/yashvrdnjain/hotdognothotdog
-
 ##  📒 Mini Project (2023/01/09 ~ 2023/01/13) 👨‍👧‍👦
 > 팀원: 정제경, 양효준, 전현준
 
 ### 1. About Data
+[캐글 Hotdog-Not-hotdog]
+https://www.kaggle.com/datasets/yashvrdnjain/hotdognothotdog
+
 ### 2. 데이터 준비
       (1) 데이터 증강 - 시각화
       (2) 데이터 분리
